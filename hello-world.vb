@@ -1,4 +1,6 @@
-Module HelloWorld
+Imports System
+
+Public Module HelloWorld
  
     Sub Main()
         Console.WriteLine("hello world!")
