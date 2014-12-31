@@ -1,2 +1,0 @@
-%Matlab
-disp('Hello World');
